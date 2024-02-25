@@ -1,4 +1,4 @@
-<img align="center" alt="coding1" src="https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_720_1280/0/1677890171661?e=1714608000&v=beta&t=NyoyOY-XWTEBwIwO9nDmlHKentaYejEQcEWDbp6vuMg">
+<img align="center" alt="coding1" src="https://trisya.com/myimg/child/soft_devlop.gif">
 
 <h1 align="center">Hi 👋, I'm Vikram Durgude</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
